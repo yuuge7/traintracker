@@ -1,0 +1,94 @@
+<resources>
+    <string name="app_name">TrainTracker</string>
+
+    <string name="bucuresti">București Nord</string>
+    <string name="targoviste">Târgoviște</string>
+    <string name="titu">Titu</string>
+    <string name="gaesti">Găești</string>
+    <string name="pitesti">Pitești</string>
+    <string name="vulcana_pandele">Vulcana-Pandele</string>
+    <string name="pietrosita">Pietroşiţa</string>
+
+    <string name="lbl_january">Ianuarie"</string>
+    <string name="lbl_february">Februarie</string>
+    <string name="lbl_march">Martie</string>
+    <string name="lbl_april">Aprilie</string>
+    <string name="lbl_may">Mai</string>
+    <string name="lbl_june">Iunie</string>
+    <string name="lbl_july">Iulie</string>
+    <string name="lbl_august">August</string>
+    <string name="lbl_september">Septembrie</string>
+    <string name="lbl_october">Octombrie</string>
+    <string name="lbl_november">Noiembrie</string>
+    <string name="lbl_december">Decembrie</string>
+    <string name="lbl_all_year">Tot Anul</string>
+    <string name="lbl_total_year">Total %1$d:\n%2$d km  |  %3$dh %4$dm</string>
+    <string name="lbl_manual_mode">Adăugare Manuală</string>
+    <string name="lbl_date">Data Călătoriei:</string>
+    <string name="lbl_from">De la:</string>
+    <string name="lbl_to">Până la:</string>
+    <string name="hint_train_number">Număr Tren</string>
+    <string name="lbl_backup">Backup Date</string>
+    <string name="lbl_stats_title">Statistici</string>
+    <string name="lbl_history_title">Istoric Călătorii</string>
+    <string name="lbl_details">Detalii</string>
+    <string name="lbl_route">Ruta</string>
+    <string name="lbl_km">km</string>
+    <string name="lbl_min">min</string>
+    <string name="lbl_year"></string>
+
+    <string name="btn_start_timer">Start Cronometru</string>
+    <string name="btn_stop_timer">Stop Cronometru</string>
+    <string name="btn_save_trip">Salvează Călătoria</string>
+    <string name="btn_save_manual">Salvează Manual</string>
+    <string name="btn_select_date">Alege Data</string>
+    <string name="btn_date_format">Dată: %1$s</string>
+    <string name="btn_time_start">Ora Plecare</string>
+    <string name="btn_time_end">Ora Sosire</string>
+    <string name="btn_history">Istoric</string>
+    <string name="btn_stats">Statistici</string>
+    <string name="btn_export">Exportă</string>
+    <string name="btn_import">Importă</string>
+    <string name="btn_regio">R</string>
+    <string name="btn_regioexpress">R-E</string>
+
+    <string name="msg_timer_started">Cronometru pornit!</string>
+    <string name="msg_saved">Salvat!</string>
+    <string name="msg_deleted">Călătorie ștearsă!</string>
+    <string name="msg_error_train_num">Introdu nr tren!</string>
+    <string name="msg_error_stations">Stații identice!</string>
+    <string name="msg_error_select_times">Selectează ambele ore (Plecare/Sosire)!</string>
+    <string name="msg_error_invalid_time">Ora de sosire invalidă!</string>
+    <string name="msg_error_stop_timer">Oprește cronometrul întâi!</string>
+    <string name="msg_error_use_timer">Folosește cronometrul!</string>
+    <string name="msg_error_unknown_route">Ruta necunoscută!</string>
+    <string name="msg_error_arrival_before_departure">Eroare: Sosirea e înaintea plecării!</string>
+    <string name="msg_duration_calc">Durată: %1$d min</string>
+    <string name="msg_duration_calc_manual">Durată calculată: %1$d min</string>
+    <string name="msg_set_times">Setează orele...</string>
+
+    <string name="msg_no_export_data">Nu există date de exportat!</string>
+    <string name="msg_backup_success">Backup salvat cu succes!</string>
+    <string name="msg_export_error">Eroare la export: %1$s</string>
+    <string name="msg_select_db">Alege fișierul .db de backup</string>
+    <string name="msg_import_success">Import reușit! Aplicația se va reîncărca.</string>
+    <string name="msg_import_error">Eroare la import (Fișier invalid?)</string>
+
+    <string name="dialog_delete_title">Șterge Călătoria</string>
+    <string name="dialog_delete_msg">Ești sigur că vrei să ștergi cursa:\n%1$s (%2$s)?</string>
+    <string name="dialog_btn_yes">DA, Șterge</string>
+    <string name="dialog_btn_no">Nu</string>
+
+    <string name="widget_ready">Pregătit</string>
+    <string name="widget_running">Călătorie în curs...</string>
+    <string name="widget_btn_start">Start</string>
+    <string name="widget_btn_stop">Stop &amp; Save</string>
+    <string name="widget_btn_manual">Manual</string>
+
+    <string name="search_hint">Caută stație, rută sau tren...</string>
+    <string name="filter_stats_text">Total: %1$d km  |  %2$s</string>
+
+    <string name="stats_km">%1$d km</string>
+    <string name="stats_time">%1$dh %2$dm</string>
+    <string name="stats_zero_min">0 min</string>
+</resources>
